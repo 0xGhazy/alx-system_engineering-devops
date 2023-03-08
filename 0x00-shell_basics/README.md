@@ -5,3 +5,6 @@ Script to display the current working directory
 
 ## 1-listit
 Script to list directory content
+
+## 2-bring_me_home
+Script to change directory to user's home directory
