@@ -8,3 +8,6 @@ Script to list directory content
 
 ## 2-bring_me_home
 Script to change directory to user's home directory
+
+## 3-listfiles
+Script to display fir content in long format
