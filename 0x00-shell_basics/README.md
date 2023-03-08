@@ -11,3 +11,6 @@ Script to change directory to user's home directory
 
 ## 3-listfiles
 Script to display fir content in long format
+
+## 4-listmorefiles
+Script to display hidden files.
